@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Knust NSS Website</h3>
-  <h4>Built using a template with HTML, JavaScript, SASS & Bootstrap</h4>
+  <h4>Built using a template with HTML, JavaScript, SCSS, Bootstrap & more</h4>
 </div>
 
 <br>
