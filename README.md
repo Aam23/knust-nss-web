@@ -8,3 +8,7 @@
 ## Preview
 A platform for upcoming NSS personnel to find and apply for positions at KNUST.
 ![Cover](https://github.com/Aam23/knust-nss-web/assets/103312361/37eaab1d-d048-464a-b200-00cee7ab41d4)
+
+
+For UI, visit my Behance: [A.A.Mintah](https://www.behance.net/gallery/202341275/KNUST-NSS-Website)
+
